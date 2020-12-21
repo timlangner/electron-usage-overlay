@@ -1,7 +1,7 @@
 {
   "name": "electron-usage-overlay",
   "version": "0.0.1",
-  "description": "App overlay for component usage",
+  "description": "App overlay for component info and usage",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
