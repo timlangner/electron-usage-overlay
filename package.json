@@ -15,7 +15,7 @@
   "author": "Tim Langner",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^11.1.0"
+    "electron": "^13.2.2"
   },
   "dependencies": {
     "systeminformation": "^4.32.0"
